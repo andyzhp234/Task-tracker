@@ -2,8 +2,6 @@
 
 Task Tracker is a simple and efficient task management app designed to help users stay organized and focused. With Task Tracker, users can create notes, tasks, chatting with AI Assistant, and much more, all in one place.
 
-Project is live on: https://task-tracker-tool.netlify.app
-
 ## Screenshots
 
 <img src="./documentations/screenshots/dashboard.JPG" width="100%" />
